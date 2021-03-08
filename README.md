@@ -2,7 +2,7 @@
 
 This tradebot works on Binance.
 
-It's a simple bot that works with RSI Indicator (Relative Strength Index)
+It's a simple python bot that works with RSI Indicator (Relative Strength Index)
 
 It doesn't guarantee any profit. And I am not responsible for your trades.
 
