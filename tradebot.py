@@ -35,7 +35,7 @@ def on_close(ws):
     print('-------WEBSOCKET CONNECTION LOST-------')
 
 def on_message(ws, message):
-    global closes, in_position
+    global closes, in_position, totalsellprice, gainlosstotal
     
     print('----------DATA----------')
     json_message = json.loads(message)
