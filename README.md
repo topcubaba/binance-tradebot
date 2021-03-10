@@ -9,6 +9,8 @@ It doesn't guarantee any profit. And I am not responsible for your trades.
 If you do your settings well, you can make profit but I don't guarantee anything.
 
 If you combine it with another algorithm, you can be sure it will work better.
+
+I'm always improving the algorithm. I'm not using this version. The version I am using is more advanced version.
 ## Installation
 
 Install [TA-Lib](https://mrjbq7.github.io/ta-lib/) library.
